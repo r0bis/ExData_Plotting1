@@ -1,6 +1,6 @@
 # coursework 1
-setwd("~/R/JHU/4_Exploratory_Data_Analysis/1_coursework/repo")
-list.files("../data/")
+# setwd("~/R/JHU/4_Exploratory_Data_Analysis/1_coursework/repo")
+# list.files("../data/")
 dfilename <- '' # assign filename variable
 # test if the data file is in the right place
 if(file.exists("../data/household_power_consumption.txt")) {
@@ -12,7 +12,6 @@ if(file.exists("../data/household_power_consumption.txt")) {
   stop("Data file not found, check readme paragraph 1")
   }
 }
-# stop(paste("it is alright ",dfilename))
 # load sqldf for fast reading and subsetting of the data file
 # load lubridate for easy date/time conversion
 library(sqldf)
