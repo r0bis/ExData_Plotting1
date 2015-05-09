@@ -4,12 +4,12 @@ Coursework 1
 This is coursework Nr. 1 for the Exploratory Data Analysis course. Deadline is _BEFORE 11:30 PM UTC on Sunday 10/05/2015_.
 
 **Objective:** Create 4 R scripts that would produce 4 plots, using base graphics in R.
+**Data:** Household Electric Power consumption (**link:** <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a>)
 
-**Data:** Household Electric Power consumption 
-
-**link:** <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a>
 **Data set dimensions:** ~ 2.1 million rows of 9 columns.
+
 **Data specifics:** per minute observations over the course of several years.
+
 ### Tasks:
 1. Read data and subset 2 consecutive dates of observations to work on.
   * These are: 1st and 2nd of February, 2007
