@@ -31,12 +31,15 @@ Description of steps:
  2. Each script reads the data, subsetting the two days during the reading process.
  	*  reading is done using `sqldf` package function `read.csv.sql()`
  3. In each script the `Date` and `Time` values are concatenated in a new column called `dateTime` and converted to Date type
- 	* conversion to date is easy to do using `lubridate` package
+ 	* conversions are easy to do using `lubridate` package
  5. Each script then creates its specific output file in PNG format of 480 x 480 pixels
  	* plot1.R => plot1.png
  	* plot2.R => plot2.png
  	* plot3.R => plot3.png
  	* plot4.R => plot4.png
+
+
+**Please note:** each script file reads the data independently. When I wrote the script for the first time, I did it to contain all the 4 grpahs. The original file that does all the 4 graphs with one data read is called `coursework_1.R`
 
 Directory Structure
 ----------------------------
