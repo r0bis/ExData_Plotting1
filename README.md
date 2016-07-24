@@ -45,7 +45,7 @@ Directory Structure
 ----------------------------
 <pre>
 .
-├── data
+├── ExData_Plotting1
 │   ├── exdata-data-household_power_consumption.zip
 │   └── household_power_consumption.txt
 └── repo
