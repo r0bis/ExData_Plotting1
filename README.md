@@ -45,10 +45,10 @@ Directory Structure
 ----------------------------
 <pre>
 .
-├── ExData_Plotting1
+├── data
 │   ├── exdata-data-household_power_consumption.zip
 │   └── household_power_consumption.txt
-└── repo
+└── ExData_Plotting1
     ├── coursework_1.R
     ├── plot1.png
     ├── plot1.R
