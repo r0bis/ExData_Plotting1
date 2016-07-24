@@ -1,5 +1,5 @@
 # coursework 1
-# setwd("~/R/JHU/4_Exploratory_Data_Analysis/1_coursework/repo")
+setwd("~/Documents/Tech/Coursera/exploratory/ExData_Plotting1/")
 # list.files("../data/")
 dfilename <- '' # assign filename variable
 # test if the data file is in the right place

@@ -1,4 +1,5 @@
-# plot first graph of coursework 1
+# plot first graph of coursework ExData week 1
+setwd("~/Documents/Tech/Coursera/exploratory/ExData_Plotting1/")
 dfilename <- '' # assign filename variable
 # test if the data file is in the right place
 if(file.exists("../data/household_power_consumption.txt")) {

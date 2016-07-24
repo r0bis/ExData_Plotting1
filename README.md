@@ -1,7 +1,7 @@
 Coursework 1
 =====================================================
 
-This is coursework Nr. 1 for the Exploratory Data Analysis course. Deadline is _BEFORE 11:30 PM UTC on Sunday 10/05/2015_.
+This is coursework Nr. 1 for the Exploratory Data Analysis course. Deadline is _BEFORE July 24, 11:59 PM PDT on Sunday_.
 
 **Objective:** Create 4 R scripts that would produce 4 plots, using base graphics in R.
 
